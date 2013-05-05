@@ -1,0 +1,1 @@
+g++ -Wall -I/usr/include/ -o game game.cpp -lSOIL -framework OpenGL -framework GLUT  -framework CoreFoundation -L/usr/X11R6/lib -lX11 -lXi -lXmu
